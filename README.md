@@ -22,12 +22,12 @@ Or install it yourself as:
 
 Add this line to your application's application.js:
 ```ruby
-//= require timeago-rails
+//= require tui-calendar
 ```
 
 Add this line to your application's application.css:
 ```ruby
-*= require timeago-rails
+*= require tui-calendar
 ```
 
 ## Development
