@@ -25,9 +25,9 @@ Add this line to your application's application.js:
 //= require tui-calendar
 ```
 
-Add this line to your application's application.css:
-```ruby
-*= require tui-calendar
+Add this line to your application's application.scss:
+```scss
+@import "tui-calendar";
 ```
 
 ## Development
